@@ -1,0 +1,153 @@
+.pricingTotal{
+    width: 100%;
+    font-family: Gilroy;
+    text-align: center;
+    background: linear-gradient(360deg, rgba(255, 255, 255, 0.056) 0%, rgba(37, 67, 136, 0.1) 42.16%, rgba(107, 180, 221, 0) 92.38%);
+}
+.container{
+    margin:  0 auto;   
+}
+.infobox{
+    border: 1px solid rgba(32, 60, 134, 1);
+    background-color: rgba(32, 60, 134, 1);
+    text-align: center;
+    width: 280px;
+    height:260px;
+    border-radius: 15px;
+}
+.infoboxdiv{
+    text-align: left;
+    margin-left: 20px;
+    color: white;
+    font-size: 90%;
+}
+.space{
+    height: 30px;
+}
+.space2{
+    height: 10px;
+}
+.pricingtitle1, .pricingtitle2{
+   cursor: pointer;     
+}
+
+.justify1h3{
+    text-align: left;
+    margin-top: 30px;
+}
+.justify1div, .justify2div, .justify3div{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 28px;
+    color: #7A7E92;
+    text-align: left;
+    height: 144px;
+    top: calc(50% - 144px/2 - 1331px);
+}
+.justify1{
+    display: inline-block;
+    margin-left: 140px; 
+    background: #FFFFFF;
+    height: 690px;
+    box-shadow: 0px 43.25925827026367px 60.562965393066406px 0px #0000000D;
+    border-radius: 5px;
+}
+.justify1maindivprice{
+     text-align: left;
+}
+.justify1divprice{
+     margin-top: 30px;
+    position: block;
+    font-size: x-large;
+} 
+   .justify1divslash{
+    height: 20px;
+    font-size: large;
+    color: rgba(242, 243, 248, 1);
+}
+.justify1divperiod1 {
+    font-size: 15px;
+    margin-left:5px;
+}
+.justify1divperiod2{
+    font-size: 14px;
+    margin-left: 50px;
+}
+.justify2divperiod2, .justify3divperiod2{
+    font-size: 14px;
+    margin-left: 60px;
+}
+.justify1divinput{
+    text-align: left;  
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 27px;  
+}
+.justify1divbutton{
+    Width: 90%;
+    Height: 35px;
+    left: 10.56%;
+    right: 68.77%;
+    top: 32.37%;
+    bottom: 66.76%;
+    background: #1388C9;
+    border-color: #1388C9;
+    border-radius: 97px;
+    color: #FFFFFF;
+}
+.dialogue{
+    border: 1px solid rgba(32, 60, 134, 1);
+    background-color: rgba(32, 60, 134, 1);
+    text-align: center;
+    width: 280px;
+    height:260px;
+    color: #FFFFFF;
+}
+.dialogues{
+        text-align: left;
+}
+    .dialoguesbutton{
+    width: 70%;
+    height: 15%;
+    border-radius: 5px;
+    }
+.justify2{
+    position: inline-block;
+    height: 804px;
+    background: #FFFFFF;
+    box-shadow: 0px 43.2593px 60.563px rgba(0, 0, 0, 0.05); 
+    border-radius: 5px;
+    margin-left:25px;
+}
+.justify1divlables{
+    text-align: left;  
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 27px;
+    margin-left: 15px;  
+}
+.justify2divplus{
+    margin-top: 60px;
+    width: 2px;
+    height: 10px;
+    font-size: large;
+    color: rgba(32, 60, 134, 1);
+    text-align: left;
+}
+.justify2divicons, .justify3divicons{
+    float: right; 
+    Width: 24px; 
+    Height: 24.04px;
+}
+.justify3{
+    position: inline-block;
+    height: 915px;
+    margin-left:  25px;
+    background: #FFFFFF;
+    box-shadow: 0px 43.2593px 60.563px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+}
+   
